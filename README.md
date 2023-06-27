@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **my programming skills.**
+- 🔭 I’m currently working on **blockchain and full stack development.**
 
-- 🌱 I’m currently learning **Node.js,ReactJs,Flutter**
+- 🌱 I’m currently learning **docker,springboot and hyperledger.**
 
-- 💬 Ask me about **DSA,HTML,CSS,Javascript**
+- 💬 Ask me about **DSA,frontend and blockchain.**
 
 - 📫 How to reach me **sriyaradhika123@gmail.com**
 
